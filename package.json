@@ -1,0 +1,13 @@
+{
+  "name": "webscraping",
+  "version": "1.0.0",
+  "description": "Webscraping NY Times",
+  "main": "index.js",
+  "repository": "https://github.com/js-ni/webscraping-ny-times-example.git",
+  "author": "Paulo McNally <paulomcnally@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "request": "^2.85.0"
+  }
+}
